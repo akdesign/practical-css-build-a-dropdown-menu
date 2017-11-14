@@ -5,4 +5,4 @@ One of the most common patterns in web design is a navbar with multi-level dropd
 
 **Available on [Envato Tuts+](https://tutsplus.com/courses) from November, 2017**
 
-[View the demo](http://tutsplus.github.io/practical-css-build-a-dropdown-menu/index.html)
+[View the demo](http://tutsplus.github.io/practical-css-build-a-dropdown-menu/)
